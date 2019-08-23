@@ -1,5 +1,7 @@
 # 1D linear stage for Photometrics Prime95B
 
+Designed by Joana Valério (Instituto Superior Técnico, Biological Engineering) and Zach Hensel (ITQB NOVA). Released under the MIT License.
+
 ## Description
 
 This is a 1D linear stage to align the center of a Photometrics Prime95b camera with the optical axis of the Mad City Labs RM21 microscope body.
