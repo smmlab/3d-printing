@@ -4,7 +4,7 @@
 
 This is a 1D linear stage to align the center of a Photometrics Prime95b camera with the optical axis of the Mad City Labs RM21 microscope body.
 
-The STL files can be modified and the stage placed on a kinematic stage
+The STL files can be modified and the stage placed on a kinematic stage for tilt and displacement along other axes. Or the base design can be modified to achieve different sensor heights.
 
 ![Assembled stage](assembled.png)
 
