@@ -8,11 +8,9 @@ This is a 1D linear stage to align the center of a Photometrics Prime95b camera 
 
 The STL files can be modified and the stage placed on a kinematic stage for tilt and displacement along other axes. Or the base design can be modified to achieve different sensor heights.
 
-![Assembled stage](assembled.png)
+![Assembled stage](v3build_side.png)
 
-![Assembled mount](base.png)
-
-![Assembled mount](mount.png)
+![Assembled mount](v3build_top.png)
 
 Requirements: 
   * Optical axis aligned with holes on optical table with M6 holes spaced 25 mm
@@ -27,6 +25,12 @@ Requirements:
 * Prusa mk3s
 * Prusa standard 1.75 mm PLA filament
 * Slic3r PE edition (2.0.0) 0.2 mm Quality preset
+
+![Assembled stage](assembled.png)
+
+![Assembled mount](base.png)
+
+![Assembled mount](mount.png)
 
 ## Notes
 
