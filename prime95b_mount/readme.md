@@ -35,3 +35,6 @@ Requirements:
 ## Notes
 
 * Tolerance for sliding part is only 0.05 mm. Parts can be lubricated with silicone grease and it may be necessary to modify the STL files to add addition tolerance for your printer
+* A new version pictured below has been designed but not tested yet; a ruler was added to the help keep track of stage positions and some small modifications were made to get smoother stage movement. If it is printed and works well, we will add the STL files for it.
+
+![New version](v3build_top.png)
