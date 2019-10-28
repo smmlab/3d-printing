@@ -8,4 +8,4 @@ Based on mTurquoise2 PDB file 3ZTF published in Goedhart et al, Nat Comms 3, 201
 
 ![Assembled light](finished_light.png)
 
-![Prusa Slic3r bottom view](print bottom.png)
+![Prusa Slicer bottom view](print_bottom.png)
