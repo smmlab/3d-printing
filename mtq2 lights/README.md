@@ -7,3 +7,5 @@ Printed with no supports on Prusa mk3s, 5% infill, single perimeter with a few s
 Based on mTurquoise2 PDB file 3ZTF published in Goedhart et al, Nat Comms 3, 2012 [DOI 10.1038/ncomms1738](https://doi.org/10.1038/ncomms1738).
 
 ![Assembled light](finished_light.png)
+
+![Prusa Slic3r bottom view](print bottom.png)
